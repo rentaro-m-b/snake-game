@@ -9,6 +9,8 @@ pub struct Food {
     pub positions: Vec<Point>, // 食べ物の位置
 }
 
+// test
+
 impl Food {
     // 新しい食べ物のインスタンスを生成する
     pub fn new() -> Self {
